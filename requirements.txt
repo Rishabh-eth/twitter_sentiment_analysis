@@ -1,0 +1,11 @@
+keras
+matplotlib
+seaborn
+spacy
+tqdm
+numpy
+pandas
+numpy
+wordsegment
+torch==1.5.1
+transformers==3.0.2
